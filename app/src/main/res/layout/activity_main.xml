@@ -25,7 +25,8 @@
             custom:range_color="@color/range_bg_color_app"
             custom:selected_date_circle_color="@color/selected_date_circle_color_app"
             custom:title_color="@color/calendar_header_title"
-            custom:week_offset="0">
+            custom:week_offset="0"
+            custom:enable_past_date="false">
 
         </com.archit.calendardaterangepicker.customviews.DateRangeCalendarView>
 
